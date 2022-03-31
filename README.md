@@ -7,4 +7,4 @@ includes:
 
 (2) common git command to run from inside colab 
 
-(3) use `%%writefile` magic to convert cell into a python module (.py)
+(3) use `notebook2script.py` script to convert cells into a python module (.py)
